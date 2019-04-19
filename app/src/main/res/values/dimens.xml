@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- main -->
+    <dimen name="width_main_btn">150dp</dimen>
+    <dimen name="height_main_btn">60dp</dimen>
+    <dimen name="margin_top_logo">50dp</dimen>
+    <dimen name="margin_hor_main_btn">20dp</dimen>
+
+    <!-- gateway -->
+    <dimen name="margin_top_gw_title">50dp</dimen>
+
+    <!-- scan -->
+    <dimen name="width_scan_btn">100dp</dimen>
+    <dimen name="height_scan_btn">30dp</dimen>
+    <dimen name="margin_end_scan_btn_scan">10dp</dimen>
+    <dimen name="margin_top_scan_btn_scan">10dp</dimen>
+
+    <!-- delivery -->
+    <dimen name="width_delivery_btn">100dp</dimen>
+    <dimen name="height_delivery_btn">30dp</dimen>
+    <dimen name="margin_right_delivery_btn">12dp</dimen>
+    <dimen name="margin_top_delivery_btn">10dp</dimen>
+    <dimen name="text_size_delivery_btn">12.0sp</dimen>
+</resources>

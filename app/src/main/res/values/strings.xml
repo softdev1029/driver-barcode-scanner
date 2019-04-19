@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BarcodeScanner</string>
+    <!-- common -->
+    <string name="lbl_yes">Yes</string>
+    <string name="lbl_no">No</string>
+    <string name="msg_exit">Do you want to exit?</string>
+    <!-- share -->
+    <!-- main -->
+    <string name="btn_gateway">GATEWAY</string>
+    <string name="btn_driver">DRIVER</string>
+
+    <!-- gateway -->
+    <string name="lbl_gateway">GATEWAY SCAN</string>
+    <string name="btn_airport">Lisbon Airport</string>
+    <string name="btn_departure">Lisbon Departure</string>
+    <string name="btn_arrival">Arrival At Destination</string>
+
+    <!-- driver -->
+    <string name="lbl_driver">DRIVER</string>
+    <string name="btn_driver_load">Driver Load</string>
+    <string name="btn_delivery">Delivery</string>
+
+    <!-- delivery -->
+    <string name="btn_bad_address">Bad Address</string>
+    <string name="btn_refused">Refused</string>
+    <string name="btn_closed">Closed</string>
+    <string name="btn_damage">Damage</string>
+    <string name="btn_pod">POD</string>
+
+    <!-- scan intro -->
+    <string name="lbl_scan">"GATEWAY SCAN\nLisbon Airport\nByPass Scan"</string>
+    <string name="btn_scan">SCAN</string>
+</resources>
